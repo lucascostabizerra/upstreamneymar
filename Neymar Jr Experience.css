@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+padding:2% !important;
+	background-image: url("_Banner-Main-1200x780-96-Invert.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+		text-align: center !important;
+
+}
+
+
+
+.logo-neymar{
+ 	background-repeat: no-repeat !important;
+	background-position: center;
+	width: 506px;
+	padding-top: 10%;
+	text-align: center !important;
+
+}
+
+
+h1{
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.6rem;
+	color:#ffffff;
+}
+
+main{
+	margin:4%;
+    padding:3% 3% 6% 3%;
+	background-color: hsla(0,0%,0%,0.57);
+	border-radius: 20px;
+	text-align:center !important;
+}
+
+
+span{
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.9rem;
+	color:#ffffff;
+}
+
+input {
+	padding:8px;
+	border-radius: 20px;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.9rem;
+	}
+
+button{
+	background-color: #D7034E;
+	padding:8px;
+	border-radius: 20px;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.9rem;
+	color: #ffffff;
+	padding-right: 20px;
+	padding-left: 20px;
+	border:none!important;
+	
+}
+
+footer{
+
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.4rem;
+	color:#ffffff;
+	background-color: black;
+	bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+	padding:3% 0 2% 0;
+}
