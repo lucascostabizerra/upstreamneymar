@@ -20,6 +20,7 @@ header{
  	background-repeat: no-repeat !important;
 	background-position: center;
 	width: 506px;
+	max-width:80%;
 	padding-top: 10%;
 	text-align: center !important;
 
@@ -29,7 +30,7 @@ header{
 h1{
 	text-align: center;
 	font-family: "Open Sans", sans-serif;
-	font-size: 1.6rem;
+	font-size: 0.9rem;
 	color:#ffffff;
 }
 
