@@ -87,3 +87,25 @@ footer{
     text-align: center;
 	padding:3% 0 2% 0;
 }
+
+@media only screen and (max-width: 600px){
+
+.logo-neymar {
+    background-repeat: no-repeat !important;
+    background-position: center;
+    width: 506px;
+    max-width: 70%;
+    padding-top: 30%;
+    text-align: center !important;
+}
+
+body{
+	background-image:url("Banner-Main-1200x780-96-Invert.jpg");
+    height: 100vh;
+	width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-position: center;
+    padding: 0;
+    margin: 0 auto;
+	}}
